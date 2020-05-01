@@ -13,8 +13,8 @@ Please see it [here](https://raw.githubusercontent.com/manuel-lang/oldfellas-pre
 Use the following template and fill out the information (CLAN_NAME, COUNTRY_CODE, CLAN_ID and USER_NAME)
 ```html
 <tr>
-  <td>
-    <font size="2" color="#ef8caa">CLAN_NAME</font>
+  <td style="text-align: right">
+    <font size="2" color="#ef8caa">CLAN_NAME is an oldfella</font>
   </td>
   <td style="text-align: left">
     <font size="2" color="#8fb6b9">
