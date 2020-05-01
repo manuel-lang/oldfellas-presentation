@@ -30,4 +30,4 @@ Then paste the block after [this line](https://github.com/manuel-lang/oldfellas-
 
 ### Updating trophies
 
-Add a line with the trophy image source and the user as title attribute in the way as shown [here](https://github.com/manuel-lang/oldfellas-presentation/blob/2f38238841db646a7126e65d29c470a8a1ac05bd/v2/oldfellas.html#L246).
+Add a line with the trophy image source and the user as title attribute in the way as shown [here](https://github.com/manuel-lang/oldfellas-presentation/blob/d4237a93955ea6cfcace077a65ed0f193b0dfd9c/v2/oldfellas.html#L246).
