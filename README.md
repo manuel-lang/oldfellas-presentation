@@ -1,6 +1,6 @@
 # oldfellas-presentation
 
-You might want to use the minified versions.
+You might want to use the minified versions. You can create a minified version of the presentation using HTML minifiers such as [this](http://minifycode.com/html-minifier/) one.
 
 ## Update instructions
 
