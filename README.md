@@ -2,6 +2,10 @@
 
 You might want to use the minified versions. You can create a minified version of the presentation using HTML minifiers such as [this](http://minifycode.com/html-minifier/) one.
 
+## Ready to use version
+
+Please see it [here](https://raw.githubusercontent.com/manuel-lang/oldfellas-presentation/master/v2/oldfellas.min.html).
+
 ## Update instructions
 
 ### Adding additional people to the presentation
